@@ -37,6 +37,7 @@ yarn stop
 - [x] PM2
 - [x] Yarn
 - [x] Docker
+- [ ] Docker Commands to package.json
 - [ ] Kubernetes
 - [ ] Rest Client
 
