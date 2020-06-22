@@ -1,0 +1,9 @@
+version: "2"
+services:
+  budget-tracker-orchestrator:
+    build: .
+    volumes:
+      - .:/app
+    ports:
+      - "3009:3009"
+
